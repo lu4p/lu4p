@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm proficent in Go, JS, Python, PHP, SQL, and also picked up some C/C++, Ruby, Java along the way.
+
+Want something custom built, have an open position, or need help with an existing project? [Let's Talk](mailto:lu4p.pm.me)!
+
+If you depend on any of my projects, or like my [blog](https://blog.lu4p.xyz), consider becoming a [Sponsor](https://github.com/sponsors/lu4p) of my work. 
